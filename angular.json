@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "spoty-app"
+  "defaultProject": "spoty-app",
+  "cli": {
+    "analytics": false
+  }
 }
