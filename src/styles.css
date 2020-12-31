@@ -5,6 +5,16 @@ body {
   color: white !important;
 }
 
+.bodySearch {
+  background: #1db95438;
+  border-radius: 10px;
+}
+
+.searchText[type=text] {
+  color: #1DB954;
+}
+
+
 hr {
   border-color: white;
 }
@@ -36,7 +46,6 @@ hr {
   height: 50px;
 }
 
-
 /* Animaciones */
 
 .animated {
@@ -55,10 +64,10 @@ hr {
 
 @keyframes fadeIn {
   from {
-      opacity: 0;
+    opacity: 0;
   }
   to {
-      opacity: 1;
+    opacity: 1;
   }
 }
 
