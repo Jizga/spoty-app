@@ -6,12 +6,14 @@ body {
 }
 
 .bodySearch {
-  background: #1db95438;
+  background: #1db95423;
   border-radius: 10px;
 }
 
 .searchText[type=text] {
   color: #1DB954;
+  border-color: #1DB954;
+  border-width: 3px;
 }
 
 
